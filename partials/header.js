@@ -1,0 +1,1 @@
+document.querySelector('header').innerHTML = '<a href="/"><h1>lundaTempo</h1></a>';
