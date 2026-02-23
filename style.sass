@@ -1,6 +1,8 @@
 /* lundaTempo — style.sass */
 /* Fill in your styles here. */
 
+
+  
 :root
   color: black
   background-color: white
@@ -8,12 +10,16 @@
   &[data-theme="dark"]
     color: white
     background-color: black
-    
-    a
-      color: white
 
   text-wrap: wrap
 
   #theme-toggle
     cursor: pointer
+
+:root a
+  color: black
+
+:root[data-theme="dark"] a
+  color: white
+
   

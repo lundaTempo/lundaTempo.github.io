@@ -9,14 +9,19 @@
   color: white;
   background-color: black;
 }
-:root[data-theme=dark] a {
-  color: white;
-}
 :root {
   text-wrap: wrap;
 }
 :root #theme-toggle {
   cursor: pointer;
+}
+
+:root a {
+  color: black;
+}
+
+:root[data-theme=dark] a {
+  color: white;
 }
 
 /*# sourceMappingURL=style.css.map */
