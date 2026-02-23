@@ -1,0 +1,5 @@
+---
+permalink: /songIndex.json
+eleventyExcludeFromCollections: true
+---
+[{% for song in collections.songs %}{{ song.url | dump }}{% if not loop.last %},{% endif %}{% endfor %}]
