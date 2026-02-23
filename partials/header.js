@@ -46,7 +46,6 @@ document.getElementById('lucky').addEventListener('click', async () => {
 });
 
 
-
 function copyLink() {
   const link = window.location.href;
   
@@ -57,27 +56,10 @@ function copyLink() {
       })
       .catch((err) => {
         console.error('Failed to copy:', err);
-        //fallbackCopy(link);
       });
-  /* } else {
-    fallbackCopy(link); */
   }
 }
-/*
-function fallbackCopy(text) {
-  const textarea = document.createElement("textarea");
-  textarea.value = text;
-  document.body.appendChild(textarea);
-  textarea.select();
-  try {
-    document.execCommand("copy");
-    showCopyFeedback();
-  } catch (err) {
-    alert("Failed to copy");
-  }
-  document.body.removeChild(textarea);
-}
-*/
+
 
 function showCopyFeedback() {
   const copyButton = document.getElementById('copy-link');
