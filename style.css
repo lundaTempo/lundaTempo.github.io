@@ -1,2 +1,13 @@
-/* lundaTempo — style.css */
+@charset "UTF-8";
+/* lundaTempo — style.sass */
 /* Fill in your styles here. */
+:root {
+  color: black;
+  background-color: white;
+}
+:root[data-theme=dark] {
+  color: white;
+  background-color: black;
+}
+
+/*# sourceMappingURL=style.css.map */

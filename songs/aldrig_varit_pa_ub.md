@@ -1,22 +1,7 @@
-<!DOCTYPE html>
-<html lang="sv">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Jag har aldrig varit på UB</title>
-<link rel="stylesheet" href="/style.css">
-</head>
-<body>
-<header></header>
-<script src="/partials/header.js"></script>
-
-<main>
-<!-- Lyrics are written inside <pre>: newlines in the source become newlines on screen,
-no <br> tags needed. -->
-<pre>
-<div class="content">
-<p><b>Jag har aldrig varit på UB</b><br>
-<i>Mel. Jag har aldrig vatt på snusen [O hur saligt att få vandra]</i><br><br>
+---
+title: Jag har aldrig varit på UB
+melody: Jag har aldrig vatt på snusen [O hur saligt att få vandra]
+---
 Jag har aldrig varit på UB,
 aldrig pluggat på Café Athen,
 aldrig skurit upp en snubbe,
@@ -51,13 +36,3 @@ I och M kan ragga på kemister.
 Data knarkar på sin kära linuxkod.
 Mardrömmar om humanister,
 drömmer alla på LTH.
-</p>
-</div>
-</pre>
-</main>
-
-<footer></footer>
-<script src="/partials/footer.js"></script>
-
-</body>
-</html>
