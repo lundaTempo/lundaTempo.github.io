@@ -9,5 +9,18 @@
   color: white;
   background-color: black;
 }
+:root {
+  text-wrap: wrap;
+}
+
+#theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  padding: 0;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+}
 
 /*# sourceMappingURL=style.css.map */
