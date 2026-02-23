@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 <!DOCTYPE html>
 <html lang="sv">
 <head>
@@ -12,9 +15,10 @@
 <br>
 
 <main>
-<a href="/songs/osmasen">osMåsen</a><br>
-<a href="/songs/pluggar_pa_lu">Pluggar på LU</a><br>
-<a href="/songs/aldrig_varit_pa_ub">Jag har aldrig varit på UB</a><br>
+{% for song in collections.songs | sort(false, false, "data.title") %}
+<a href="{{ song.url }}">{{ song.data.title }}</a><br>
+<br>
+{% endfor %}
 </main>
 
 <br>
