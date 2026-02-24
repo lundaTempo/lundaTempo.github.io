@@ -20,11 +20,13 @@
 <main>
 <div class="content">
 <br>
-<p><b>{{ title }}</b><br>
+<p><div class="songinfo"><b>{{ title }}</b><br>
 <i>Mel. {{ melody }}</i><br>
+</div>
 {% if source %}<i>Från: {{ source }}</i></p>{% endif %}
-
+<div class = "songlyrics">
 {{ content | safe }}
+</div>
 </div>
 </main>
 

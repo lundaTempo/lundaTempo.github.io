@@ -1,5 +1,6 @@
 document.querySelector('header').innerHTML = `<a href="/"><h1>lundaTempo</h1></a>
   <button id="theme-toggle" aria-label="växla mörkt läge"></button>
+  <br>
   <button id="copy-link" aria-label="kopiera länk"></button>
   <button id="lucky" aria-label="gå till slumpmässig sång">jag har tur</button><br>`
 

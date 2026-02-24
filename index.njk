@@ -18,7 +18,7 @@ permalink: /index.html
 <main>
 <h3>Låtar</h3>
 {% for song in collections.songs | sort(false, false, "data.title") %}
-<a href="{{ song.url }}">{{ song.data.title }}</a><br>
+<span class="song-number">{{ loop.index }}.</span> <a href="{{ song.url }}">{{ song.data.title }}</a><br>
 <br>
 {% endfor %}
 
@@ -27,7 +27,7 @@ permalink: /index.html
 <a href="{{ misc.url }}">{{ misc.data.title }}</a><br>
 <br>
 {% endfor %}
-Kommer snart
+Kommer snart!
 </main>
 
 <br>

@@ -3,6 +3,7 @@
 /* Fill in your styles here. */
 * {
   text-align: center;
+  font-family: "Times New Roman", Times, serif;
 }
 
 :root {
@@ -22,6 +23,9 @@
 :root #copy-link {
   cursor: pointer;
 }
+:root #download-pdf {
+  cursor: pointer;
+}
 
 :root a {
   color: black;
@@ -29,6 +33,22 @@
 
 :root[data-theme=dark] a {
   color: white;
+}
+
+a, .song-number {
+  font-size: 1.1em;
+}
+
+.songlyrics {
+  font-size: 0.99em;
+}
+
+.songinfo {
+  font-size: 1.03em;
+}
+
+button {
+  font-size: 0.9em;
 }
 
 /*# sourceMappingURL=style.css.map */
