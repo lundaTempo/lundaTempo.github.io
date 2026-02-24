@@ -1,9 +1,8 @@
 ## Funktionalitet att lägga till
-- fixa goatcounter
 - fixa random-knapp
-- differentiera länkar som källkod och till låtar
-- lägga till subtitel
-- gör möjligt att ladda ner sånger som filer
+- fixa download-funktionalitet
+- differentiera länkar som "källkod" och till låtar
+- lägga till subtitel - ex. "en samling låtar"
 
 ## Låtar att lägga till
 
