@@ -1,6 +1,7 @@
 ---
 title: Strejk på Pripps
 melody: I natt jag drömde
+source: ??
 ---
 I natt jag drömde något som
 jag aldrig drömt förut
