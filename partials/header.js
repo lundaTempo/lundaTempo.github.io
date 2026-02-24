@@ -66,7 +66,7 @@ function showCopyFeedback() {
   if (!copyButton) return;
   
   const originalText = copyButton.textContent;
-  copyButton.textContent = 'Länk kopierad!';
+  copyButton.textContent = 'länk kopierad';
   
   setTimeout(() => {
     copyButton.textContent = originalText;
