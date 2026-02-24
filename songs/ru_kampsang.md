@@ -1,6 +1,7 @@
 ---
 title: Radikal Ungdoms kampsang
 melody: Battle-hymn of the republic
+source:
 ---
 Hver og en af os er rød og grøn og blå i denne flok
 I vor kamp for republik og sandhed får vi aldrig nok

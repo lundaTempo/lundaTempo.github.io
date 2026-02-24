@@ -1,6 +1,7 @@
 ---
 title: Vi klarar oss nog ändå
 melody: Ingen speciell
+source:
 ---
 Jag vill sjunga en visa i klaraste dur,
 ty den handlar om Skåne å slätter å djur.

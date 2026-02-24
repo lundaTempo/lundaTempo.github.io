@@ -21,13 +21,15 @@
 <div class="content">
 <br>
 <p><b>{{ title }}</b><br>
-<i>Mel. {{ melody }}</i></p>
-{% if source %}<div class="song-source"><small>Källa: {{ source }}</small></div>{% endif %}
+<i>Mel. {{ melody }}</i><br>
+{% if source %}<i>Från: {{ source }}</i></p>{% endif %}
 
 {{ content | safe }}
 </div>
 </main>
 
+<br>
+<br>
 <footer></footer>
 <script src="/partials/footer.js"></script>
 <script src="/partials/download.js"></script>

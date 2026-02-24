@@ -1,6 +1,7 @@
 ---
 title: Vikingen
 melody: When Johnny Comes Marching Home
+source:
 ---
 En viking älskar livets vann
 Hurra, hurra!

@@ -1,6 +1,7 @@
 ---
 title: Pluggar på LU
 melody: När månen vandrar
+source:
 ---
 Jag pluggar på LU,
 och läser gratispoäng.
