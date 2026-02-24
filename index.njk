@@ -20,6 +20,12 @@ permalink: /index.html
 <a href="{{ song.url }}">{{ song.data.title }}</a><br>
 <br>
 {% endfor %}
+
+<h3>Andra saker</h3>
+{% for misc in collections.misc | sort(false, false, "data.title") %}
+<a href="{{ misc.url }}">{{ misc.data.title }}</a><br>
+<br>
+{% endfor %}
 </main>
 
 <br>

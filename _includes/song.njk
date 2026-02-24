@@ -9,6 +9,13 @@
 <body>
 <header></header>
 <script src="/partials/header.js"></script>
+<script>
+  const dlBtn = document.createElement('button');
+  dlBtn.id = 'download-pdf';
+  dlBtn.textContent = 'ladda ner';
+  dlBtn.setAttribute('aria-label', 'ladda ner som PDF');
+  document.querySelector('header').appendChild(dlBtn);
+</script>
 
 <main>
 <div class="content">
@@ -23,6 +30,7 @@
 
 <footer></footer>
 <script src="/partials/footer.js"></script>
+<script src="/partials/download.js"></script>
 
 </body>
 </html>
