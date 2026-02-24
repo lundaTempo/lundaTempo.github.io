@@ -9,6 +9,6 @@ joel.t.t.o@gmail.com
 
 ## För utvecklare
 ``
-npx sass style.sass style.css
+npx sass style.sass style.css\\
 npm run watch
 ``
