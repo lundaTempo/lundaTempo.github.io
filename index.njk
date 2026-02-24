@@ -15,6 +15,7 @@ permalink: /index.html
 <br>
 
 <main>
+<h3>Låtar</h3>
 {% for song in collections.songs | sort(false, false, "data.title") %}
 <a href="{{ song.url }}">{{ song.data.title }}</a><br>
 <br>

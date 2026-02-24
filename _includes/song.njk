@@ -12,10 +12,11 @@
 
 <main>
 <div class="content">
+<br>
 <p><b>{{ title }}</b><br>
 <i>Mel. {{ melody }}</i></p>
 {% if source %}<div class="song-source"><small>Källa: {{ source }}</small></div>{% endif %}
-<br>
+
 {{ content | safe }}
 </div>
 </main>
