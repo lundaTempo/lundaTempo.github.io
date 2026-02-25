@@ -71,7 +71,8 @@ a, .song-number {
 button {
   font-size: 0.9em;
 }
-button {
+
+:root[data-theme=cs] a {
   color: white;
 }
 
