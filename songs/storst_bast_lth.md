@@ -1,7 +1,7 @@
 ---
 title: Störst och bäst i Skåne
 melody: Om sanningen ska fram?
-source:
+primary_source:
 ---
 Vem är störst o bäst i skåne,
 Vem e kung på lth

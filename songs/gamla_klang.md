@@ -1,7 +1,7 @@
 ---
 title: O, gamla klang- och jubeltid
 melody: O, alte Burschenherrlichkeit (E. Höfling, 1825); översatt av A. Lind
-source:
+primary_source:
 ---
 O, gamla klang- och jubeltid,
 ditt minne skall förbliva

@@ -1,7 +1,7 @@
 ---
 title: Minnet
 melody: Memory
-source:
+primary_source:
 ---
 Minne! Jag har tappat mitt minne!
 Är jag svensk eller finne?

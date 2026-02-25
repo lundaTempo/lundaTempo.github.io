@@ -1,8 +1,8 @@
 ---
 title: Lisää viinaa
-melody: Mera brännvin
-source:
-source-used: Kristianstads nations sjätte sångbok
+melody: Internationalen
+primary_source:
+primary_source-used: Kristianstads nations sjätte sångbok & E-sektionens digitala sångbok
 ---
 Lisää viinaa mun laissn,
 lisää laseja pöydälle.

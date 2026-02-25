@@ -1,7 +1,7 @@
 ---
 title: Min gode vän Joel
 melody: Trampa på gasen
-source:
+primary_source:
 ---
 Min gode vän Joel,
 han är en god kamrat.

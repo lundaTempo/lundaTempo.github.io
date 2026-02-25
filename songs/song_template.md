@@ -1,8 +1,8 @@
 ---
 title: #<-- låttitel
 melody: #<-- melodi
-source: #<-- källa
-source-used: #<-- från var den här informationen lades in
+primary_source: #<-- källa
+source_used: #<-- från var den här informationen lades in (internt)
 eleventyExcludeFromCollections: true #<-- set to false when adding song to main page
 ---
 Här börjar texten...

@@ -1,7 +1,7 @@
 ---
 title: Finland är Finland
 melody: Högt över havet
-source:
+primary_source:
 ---
 Finland är Finland och Finland är bra.
 Dom har en pipeline med sprit från Moskva.

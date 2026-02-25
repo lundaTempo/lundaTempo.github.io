@@ -1,7 +1,7 @@
 ---
 title: Strejk på Pripps
 melody: I natt jag drömde
-source: Hej
+primary_source: Hej
 ---
 I natt jag drömde något som
 jag aldrig drömt förut

@@ -1,6 +1,6 @@
 ---
 title: Viktig kuriosa
-source: Källa
+primary_source: Källa
 eleventyExcludeFromCollections: false
 ---
 Hur många prickar har krischan? Ingen vet, tyvärr
