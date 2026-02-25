@@ -5,9 +5,26 @@
 - lägga till subtitel - ex. "en samling låtar"
 - toggle för att sortera på olika saker
 - lägga till en manifest.json
+- kortare max width på låtinfo
+- bookworm mode
+- länka till youtube för melodin på vissa låtar
+- sätt max width för text till 87 %
+- modes för alla föreningar jag rört mig i (kk, hallands, maskin, wermlands)
+- VKONÄ filamn till skane
+
 
 ## Att göra - låtar
 - korrläs alla låtar
+
+## Att göra - andra saker
+- öka radavstånd i songtext
+- gör dark mode till default
+- öka avstånd mellan melodi och låttext
+- gör hela entryn klickbar i startsida 
+- ta bort länkundwrstrykning i sidtitlar på startsida
+- skapa en OM-tabb för att lista
+- öka textstprlek ännu mer?
+- kopiera länk -> dela
 
 ## Låtar att lägga till
 
@@ -49,6 +66,8 @@
 - Betongsång
 - Vår färg är röd (najs)
 - Bortom IT-samhället
+
+- hell and gore
 
 ### misc. (ej låtar)
 - Hur man ska skåla
