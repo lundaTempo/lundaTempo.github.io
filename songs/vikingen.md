@@ -1,6 +1,6 @@
 ---
 title: Vikingen
-melody: When Johnny Comes Marching Home
+melody: Helan går (alt. When Johnny Comes Marching Home)
 source:
 ---
 En viking älskar livets vann

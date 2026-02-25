@@ -1,9 +1,16 @@
 document.querySelector('header').innerHTML = `<a href="/"><h1>lundaTempo</h1></a>
-  <button id="theme-toggle" aria-label="växla mörkt läge"></button>
-  <br>
-  <button id="copy-link" aria-label="kopiera länk"></button>
-  <button id="lucky" aria-label="gå till slumpmässig sång">jag har tur</button><br>`
+  <button id="theme-toggle" aria-label="växla mörkt läge"></button>&nbsp
+  <button id="copy-link" aria-label="kopiera länk"></button>&nbsp
+  <button id="lucky" aria-label="gå till slumpmässig sång">jag har tur</button>&nbsp
+  <div class="dropdown">Jag är speciell
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+    </div>
+</div>
 
+  <button id="cs-mode" aria-label="byt till cs mode">jag är med i cs</button>&nbsp
+  <button id="dsek-mode" aria-label="byt till dsek mode">jag pluggar cs</button>&nbsp
+  <button id="krn-mode" aria-label="byt till krn mode">jag är krischanit</button>`
 const themeToggle = document.getElementById('theme-toggle');
 
 function applyTheme(dark) {
@@ -46,7 +53,6 @@ document.getElementById('lucky').addEventListener('click', async () => {
   window.location.href = url;
 });
 
-
 function copyLink() {
   const link = window.location.href;
   
@@ -60,7 +66,6 @@ function copyLink() {
       });
   }
 }
-
 
 function showCopyFeedback() {
   const copyButton = document.getElementById('copy-link');

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ title }}</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header></header>
+<script src="/partials/header.js"></script>
+<script>
+  const dlBtn = document.createElement('button');
+  dlBtn.id = 'download-pdf';
+  dlBtn.textContent = 'ladda ner';
+  dlBtn.setAttribute('aria-label', 'ladda ner som PDF');
+  document.querySelector('header').appendChild(dlBtn);
+</script>
+
+<main>
+<div class="content">
+<br>
+<p><div class="songinfo"><b>{{ title }}</b><br>
+</div>
+{% if source %}<i>Från: {{ source }}</i></p>{% endif %}
+<div class = "songlyrics">
+{{ content | safe }}
+</div>
+</div>
+</main>
+
+<br>
+<br>
+<footer></footer>
+<script src="/partials/footer.js"></script>
+<script src="/partials/download.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+{
+  "layout": "misc",
+  "tags": "misc",
+  "permalink": "/{{ page.fileSlug }}/"
+}

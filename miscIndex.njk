@@ -1,0 +1,5 @@
+---
+permalink: /miscIndex.json
+eleventyExcludeFromCollections: true
+---
+[{% for misc in collections.misc %}{{ misc.url | dump }}{% if not loop.last %},{% endif %}{% endfor %}]
