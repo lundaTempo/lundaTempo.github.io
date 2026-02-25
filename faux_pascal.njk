@@ -1,0 +1,105 @@
+---
+title: Pascals triangel
+layout: false
+permalink: /pascal/
+---
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title></title>
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/font.css">
+<style>
+  .pascal-demo {
+    font-family: monospace;
+    max-width: 500px;
+    margin: 2rem auto;
+    padding: 1rem;
+  }
+
+  .pascal-demo h2 {
+    margin-bottom: 1.5rem;
+  }
+
+  .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .number {
+    opacity: 0;
+    animation: fade-in 0.3s ease forwards;
+    font-family: "Computer Modern", serif;
+    font-size: 1.4em;
+  }
+
+  .row-num {
+    width: 1.5rem;
+    text-align: right;
+    color: #888;
+    font-size: 0.9rem;
+  }
+
+  .dots {
+    display: flex;
+    gap: 4px;
+  }
+
+  .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: currentColor;
+    display: inline-block;
+  }
+
+  .sum-line {
+    border-top: 1px solid currentColor;
+    margin: 0.8rem 0 0.4rem;
+    opacity: 0;
+    animation: fade-in 0.5s ease forwards;
+  }
+
+  @keyframes slide-in {
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  @keyframes fade-in {
+    to { opacity: 1; }
+  }
+</style>
+</head>
+<body>
+<header></header>
+<script src="/partials/header.js"></script>
+
+<main>
+<div class="pascal-demo">
+  {% set n = 5 %}
+  {% set delay_step = 0.38 %}
+  {% set values = [[1], [1,1], [1,2,1], [1,3,3,1], [1,4,5,4,1]] %}
+
+  {% for i in range(n) %}
+    <div class="row">
+      {% for j in values[i] %}
+        <div class="number" style="animation-delay: {{ (i * (i + 1) / 2 + loop.index0) * delay_step }}s">
+          {{ j }}
+        </div>
+      {% endfor %}
+    </div>
+  {% endfor %}
+</div>
+</main>
+
+<br><br>
+<footer></footer>
+<script src="/partials/footer.js"></script>
+</body>
+</html>

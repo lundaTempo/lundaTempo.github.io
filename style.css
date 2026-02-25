@@ -8,10 +8,10 @@
 }
 
 body {
-  max-width: 716px;
+  max-width: 555px;
+  overflow-wrap: break-word;
   margin-left: auto;
   margin-right: auto;
-  overflow-wrap: break-word;
 }
 
 :root {

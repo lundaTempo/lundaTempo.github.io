@@ -8,9 +8,9 @@ document.querySelector('header').innerHTML = `<a href="/"><h1>lundaTempo</h1></a
     </div>
 </div>
 
-  <button id="cs-mode" aria-label="byt till cs mode">jag är med i cs</button>&nbsp
-  <button id="dsek-mode" aria-label="byt till dsek mode">jag pluggar cs</button>&nbsp
-  <button id="krn-mode" aria-label="byt till krn mode">jag är krischanit</button>`
+  <button id="cs-mode" aria-label="byt till cs mode">med i cs</button>&nbsp
+  <button id="dsek-mode" aria-label="byt till dsek mode">pluggar cs</button>&nbsp
+  <button id="krn-mode" aria-label="byt till krn mode">krischanit</button>`
 const themeToggle = document.getElementById('theme-toggle');
 
 function applyTheme(dark) {
