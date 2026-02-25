@@ -1,6 +1,7 @@
 ---
 title: Lorem Ipsum
 source: Dolor
+eleventyExcludeFromCollections: true
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in hendrerit massa, non pellentesque nisi. Donec justo felis, efficitur sed aliquam a, scelerisque sed dolor. Suspendisse potenti. Nunc dignissim elit justo. Ut suscipit magna eu dui fringilla, et mollis justo efficitur. Praesent imperdiet commodo ligula cursus euismod. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 

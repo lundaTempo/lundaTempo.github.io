@@ -1,33 +1,67 @@
 document.querySelector('header').innerHTML = `<a href="/"><h1>lundaTempo</h1></a>
-  <button id="theme-toggle" aria-label="växla mörkt läge"></button>&nbsp
+  <button id="theme-toggle" aria-label="växla tema"></button>&nbsp
   <button id="copy-link" aria-label="kopiera länk"></button>&nbsp
   <button id="lucky" aria-label="gå till slumpmässig sång">jag har tur</button>&nbsp
-  <div class="dropdown">Jag är speciell
-    <div class="dropdown-content">
-      <a href="#">Link 1</a>
-    </div>
-</div>
-
-  <button id="cs-mode" aria-label="byt till cs mode">med i cs</button>&nbsp
-  <button id="dsek-mode" aria-label="byt till dsek mode">pluggar cs</button>&nbsp
-  <button id="krn-mode" aria-label="byt till krn mode">krischanit</button>`
+  <button id="group-toggle" aria-label="växla grupp"></button>`
 const themeToggle = document.getElementById('theme-toggle');
 
-function applyTheme(dark) {
-  document.documentElement.setAttribute('data-theme', dark ? 'dark' : '');
-  themeToggle.textContent = dark ? 'varde ljus' : 'låt mörker bli';
+const themeLabels = {
+  light: 'låt mörker bli',
+  dark: 'gamla böcker',
+  book: 'varde ljus',
+};
+
+const themeNext = {
+  light: 'dark',
+  dark: 'book',
+  book: 'light',
+};
+
+function applyTheme(theme) {
+  document.documentElement.setAttribute('data-theme', theme === 'light' ? '' : theme);
+  themeToggle.textContent = themeLabels[theme];
 }
 
 const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
 const saved = localStorage.getItem('theme');
-const isDark = saved ? saved === 'dark' : prefersDark;
-applyTheme(isDark);
+const initialTheme = saved || (prefersDark ? 'dark' : 'light');
+applyTheme(initialTheme);
 
 themeToggle.addEventListener('click', () => {
-  const nowDark = document.documentElement.getAttribute('data-theme') === 'dark';
-  localStorage.setItem('theme', nowDark ? 'light' : 'dark');
-  applyTheme(!nowDark);
-})
+  const current = localStorage.getItem('theme') || 'light';
+  const next = themeNext[current] || 'dark';
+  localStorage.setItem('theme', next);
+  applyTheme(next);
+});
+
+const groupToggle = document.getElementById('group-toggle');
+
+const groupLabels = {
+  cs: 'pluggar cs',
+  dsek: 'krischanit',
+  krn: 'med i cs',
+};
+
+const groupNext = {
+  cs: 'dsek',
+  dsek: 'krn',
+  krn: 'cs',
+};
+
+function applyGroup(group) {
+  document.documentElement.setAttribute('data-group', group);
+  groupToggle.textContent = groupLabels[group];
+}
+
+const savedGroup = localStorage.getItem('group') || 'cs';
+applyGroup(savedGroup);
+
+groupToggle.addEventListener('click', () => {
+  const current = localStorage.getItem('group') || 'cs';
+  const next = groupNext[current];
+  localStorage.setItem('group', next);
+  applyGroup(next);
+});
 
 const copyButton = document.getElementById('copy-link');
 copyButton.textContent = 'kopiera länk';
