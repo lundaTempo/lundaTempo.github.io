@@ -1,9 +1,10 @@
 document.querySelector('header').innerHTML = `<a href="/"><h1>lundaTempo</h1></a>
-  <button id="theme-toggle" aria-label="växla tema"></button>&nbsp
-  <button id="copy-link" aria-label="kopiera länk"></button>&nbsp
-  <button id="lucky" aria-label="gå till slumpmässig sång">jag har tur</button>&nbsp
-  <button id="group-toggle" aria-label="växla grupp"></button>`
+  <button id="theme-toggle" aria-label="växla tema"></button>&nbsp`
+  
 const themeToggle = document.getElementById('theme-toggle');
+
+/* <button id="copy-link" aria-label="kopiera länk"></button>&nbsp */
+/* <button id="lucky" aria-label="gå till slumpmässig sång">jag har tur</button> */
 
 const themeLabels = {
   light: 'låt mörker bli',
@@ -47,21 +48,6 @@ const groupNext = {
   dsek: 'krn',
   krn: 'cs',
 };
-
-function applyGroup(group) {
-  document.documentElement.setAttribute('data-group', group);
-  groupToggle.textContent = groupLabels[group];
-}
-
-const savedGroup = localStorage.getItem('group') || 'cs';
-applyGroup(savedGroup);
-
-groupToggle.addEventListener('click', () => {
-  const current = localStorage.getItem('group') || 'cs';
-  const next = groupNext[current];
-  localStorage.setItem('group', next);
-  applyGroup(next);
-});
 
 const copyButton = document.getElementById('copy-link');
 copyButton.textContent = 'kopiera länk';

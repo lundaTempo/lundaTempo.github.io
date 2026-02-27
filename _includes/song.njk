@@ -15,20 +15,20 @@
 <body>
 <header></header>
 <script src="/partials/header.js"></script>
-<script>
+{#<script>
   const dlBtn = document.createElement('button');
   dlBtn.id = 'download-pdf';
   dlBtn.textContent = 'ladda ner';
   dlBtn.setAttribute('aria-label', 'ladda ner som PDF');
   document.querySelector('header').appendChild(dlBtn);
-</script>
+</script>#}
 
 <main>
 <div class="content">
 <br>
 <p><div class="songinfo"><b>{{ title }}</b><br>
 <i>Mel. {{ melody }}</i><br>
-</div><br>
+</div>
 {% if primary_source %}<i>Från: {{ primary_source }}</i></p>{% endif %}
 <div class = "songlyrics">
 {{ content | safe }}

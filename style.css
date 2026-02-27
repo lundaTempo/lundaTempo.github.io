@@ -4,7 +4,7 @@
 * {
   text-align: center;
   font-family: Caladea, serif;
-  line-height: 1.42;
+  line-height: 1.62;
 }
 
 a:link {
@@ -70,6 +70,7 @@ a, .song-number {
 
 button {
   font-size: 0.9em;
+  background-color: white;
 }
 
 :root[data-theme=cs] a {
