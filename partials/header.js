@@ -19,7 +19,7 @@ const themeNext = {
 };
 
 function applyTheme(theme) {
-  document.documentElement.setAttribute('data-theme', theme === 'light' ? '' : theme);
+  document.documentElement.setAttribute('data-theme', theme === 'book' ? '' : theme);
   themeToggle.textContent = themeLabels[theme];
 }
 
