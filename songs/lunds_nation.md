@@ -1,7 +1,7 @@
 ---
-title:  #<-- låttitel
+title: Lunds nation, Lund #<-- låttitel
 melody:  #<-- melodi
 primary_source:  #<-- källa
-eleventyExcludeFromCollections: true  #<-- set to false when adding song to main page
+eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---
-Här börjar texten...
+*Lunds nation har ingen sång*

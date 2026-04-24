@@ -1,7 +1,10 @@
 ---
-title:  #<-- låttitel
-melody:  #<-- melodi
-primary_source:  #<-- källa
-eleventyExcludeFromCollections: true  #<-- set to false when adding song to main page
+title: Jämlik visa #<-- låttitel
+melody: Brevet från kolonin #<-- melodi
+primary_source: Lundakarnevalen 1998 #<-- källa
+eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---
-Här börjar texten...
+Teknologer dricker pilsner.
+Psykologer dricker rödvin.
+Ekonomer dricker drinkar.
+Men alla står tillsammans när de pinkar.
