@@ -2,7 +2,6 @@
 title: En busschaufför #<-- låttitel
 melody: O Tannenbaum #<-- melodi
 source: #<-- källa
-eleventyExcludeFromCollections: false #<-- set to false when adding song to main page
 ---
 En busschaufför, en busschaufför,
 det är en man med glatt humör

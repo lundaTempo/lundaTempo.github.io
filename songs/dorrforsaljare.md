@@ -2,7 +2,6 @@
 title: Död åt dörrförsäljare #<-- låttitel
 melody: Teenagers – My Chemical Romance #<-- melodi
 source: Krischanstaspääxets sommarspääx 2024 #<-- källa
-eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---
 Låt mig ge inspiration
 Till nästa publikation

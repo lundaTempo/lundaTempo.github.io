@@ -2,7 +2,6 @@
 title: Inte en sekt #<-- låttitel
 melody: Bögarnas fel – Grotesco #<-- melodi
 source: Krischanstaspääxets Kristina 2023/24 #<-- källa
-eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---
 Om en vecka eller två, oh yeah oh yeah
 Kommer jorden undergå, oh ack o ve

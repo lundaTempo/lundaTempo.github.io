@@ -2,7 +2,6 @@
 title: ÅRU's kampsang #<-- låttitel
 melody: Bubbibjørnesangen #<-- melodi
 source:  #<-- källa
-eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---
 Gysser og skejser til vine og rejser
 Narko og biler, champagne og sex

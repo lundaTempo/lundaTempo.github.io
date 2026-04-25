@@ -2,7 +2,6 @@
 title: Crambamboli #<-- låttitel
 melody:  #<-- melodi
 source:  #<-- källa
-eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---
 När Gud en gång den vackra världen skapade
 då fann Han allting ganska gott.

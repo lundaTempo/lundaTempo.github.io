@@ -1,7 +1,11 @@
 ---
-title:  #<-- låttitel
-melody:  #<-- melodi
+title: Ett kräftkalas #<-- låttitel
+melody: O Tannenbaum #<-- melodi
 source:  #<-- källa
-eleventyExcludeFromCollections: true  #<-- set to false when adding song to main page
 ---
-Här börjar texten...
+Ett kräftkalas, ett kräftkalas,
+Det är kalas med fulla glas.
+Men finns det bara tomma glas,
+Så är det inget kräftkalas.
+Ett kräftkalas, ett kräftkalas,
+Det är kalas med fulla glas! 
