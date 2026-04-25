@@ -1,7 +1,7 @@
 ---
 title: Teknologvisa
 melody: I'm a lumberjack (Monty Python) 
-primary_source:
+source:
 ---
 Jag är teknolog och helt OK
 Jag jobbar hårt och jag roar mig

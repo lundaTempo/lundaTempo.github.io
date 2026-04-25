@@ -1,7 +1,7 @@
 ---
 title: CSN - Din livspartner #<-- låttitel
 melody: Idas sommarvisa #<-- melodi
-primary_source: Lundakarnevalen 2018 #<-- källa
+source: Lundakarnevalen 2018 #<-- källa
 eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---
 Du ska inte tro att du blir nånting,

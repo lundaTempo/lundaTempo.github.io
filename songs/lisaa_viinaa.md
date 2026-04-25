@@ -1,7 +1,7 @@
 ---
 title: Lisää viinaa
 melody: Internationalen
-primary_source:
+source:
 ---
 Lisää viinaa mun laissn,
 lisää laseja pöydälle.

@@ -1,7 +1,7 @@
 ---
 title: Mera brännvin
 melody: Internationalen
-primary_source:
+source:
 ---
 Mera brännvin i glasen
 mera glas på vårt bord

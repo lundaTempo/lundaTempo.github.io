@@ -1,7 +1,7 @@
 ---
 title:  #<-- låttitel
 melody:  #<-- melodi
-primary_source:  #<-- källa
+source:  #<-- källa
 
 eleventyExcludeFromCollections: true  #<-- set to false when adding song to main page
 ---

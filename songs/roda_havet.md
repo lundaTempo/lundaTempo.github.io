@@ -1,7 +1,7 @@
 ---
 title: Röda havet
 melody: Ingen speciell
-primary_source:
+source:
 ---
 Vi gingo ned till Röda havet.
 Vi lågo i där minst en kvart.

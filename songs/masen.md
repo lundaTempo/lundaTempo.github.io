@@ -1,7 +1,7 @@
 ---
 title: Måsen
 melody: När månen vandrar
-primary_source:
+source:
 ---
 Det satt en mås på en klyvarbom
 och tom i krävan var kräke'.

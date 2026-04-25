@@ -1,7 +1,7 @@
 ---
 title: Bomber for fred
 melody: Jutlandia
-primary_source:
+source: Radikal Ungdom
 ---
 Det var i 1945 og nu ville man ha' fred
 Men der var krig i Japan

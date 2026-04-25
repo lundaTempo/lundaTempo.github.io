@@ -1,7 +1,7 @@
 ---
 title: Betongsång
 melody: My Way
-primary_source:
+source:
 ---
 Betong, ett vackert ord,
 en vacker form, en vacker känsla.

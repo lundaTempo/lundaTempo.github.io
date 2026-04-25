@@ -1,7 +1,16 @@
 ---
-title:  #<-- låttitel
-melody:  #<-- melodi
-primary_source:  #<-- källa
-eleventyExcludeFromCollections: true  #<-- set to false when adding song to main page
+title: Krischansta Spääxsignatur #<-- låttitel
+melody: Min gode vän Joel #<-- melodi
+source: Krischanstaspääxet #<-- källa
 ---
-Här börjar texten...
+Vi kommer från spexet, vi är Krischans gäng
+Vi trallar alltid på en glad refräng
+Vi kommer från spexet, vi är Krischans gäng
+Vi kan ta det om igen!
+
+Vi kommer från spääxet, vi är Krischans gäng
+Vi trallar alltid fram på en glad refräng
+Vi kommer från spexet, vi är Krischans gäng
+Vi kan köra citroën
+Om vi vill, om vi vill, om vi vill
+Om det vill, vill, vill, vill, vill vi!

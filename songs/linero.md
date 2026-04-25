@@ -1,7 +1,7 @@
 ---
 title: Lugn och Linero #<-- låttitel
 melody: Stockholm i mitt hjärta #<-- melodi
-primary_source: Lundakarnevalen 2006 #<-- källa
+source: Lundakarnevalen 2006 #<-- källa
 eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---
 Sparta i mitt hjärta?

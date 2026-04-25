@@ -1,7 +1,37 @@
 ---
-title:  #<-- låttitel
+title: Crambamboli #<-- låttitel
 melody:  #<-- melodi
-primary_source:  #<-- källa
-eleventyExcludeFromCollections: true  #<-- set to false when adding song to main page
+source:  #<-- källa
+eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---
-Här börjar texten...
+När Gud en gång den vackra världen skapade
+då fann Han allting ganska gott.
+Han tyckte dock, att Adam borde
+få något drickbart på sin lott.
+//: Så satt Han pricken över i
+och skapade crambamboli,
+cram-bim-bam-bamboli, crambamboli! ://
+
+Napoleon, han var en tapper krigare
+som du, som jag, som mången annan.
+Och vet du vad om honom sades
+var grunden till hans tapperhet?
+//: Napoleon med sitt kompani
+han drack ett glas crambamboli,
+cram-bim-bam-bamboli, crambamboli! ://
+
+Vill du som jag hos flickor göra lycka?
+Det kan gå bra, det kan gå galet.
+Och vet; det är ett vågat stycke,
+som tarvar ganska mycket mod.
+//: Men jag vill hålla ett mot tri
+att hjälpa skall crambamboli,
+cram-bim-bam-bamboli, crambamboli! ://
+
+Crambamboli, ja, det är jordens härlighet
+och världens salighet, förvisso!
+En härlig dryck för tjocka magar
+och för den magre ganska gott.
+//: All världens split och tyranni
+skall vika för crambamboli,
+cram-bim-bam-bamboli, crambamboli! ://

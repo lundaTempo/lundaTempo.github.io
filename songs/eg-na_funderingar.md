@@ -1,7 +1,7 @@
 ---
 title: EG:na funderingar #<-- låttitel
 melody: Jag har bott vid en landsväg #<-- melodi
-primary_source: Lundakarnevalen 1994 #<-- källa
+source: Lundakarnevalen 1994 #<-- källa
 eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---
 Jag har gått på systemet i hela mitt liv

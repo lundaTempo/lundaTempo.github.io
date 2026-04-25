@@ -1,7 +1,7 @@
 ---
 title: Nikolajev #<-- låttitel
 melody: Ryska federationens hymn #<-- melodi
-primary_source:  #<-- källa
+source:  #<-- källa
 eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---
 Jag heter Nikolajev, jag kommer från Sovjet.

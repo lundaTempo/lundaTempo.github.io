@@ -1,7 +1,7 @@
 ---
 title: Till spritbolaget
 melody: Du kära lille snickerbo
-primary_source:
+source:
 ---
 Till spritbolaget ränner jag
 Och bankar på dess port.

@@ -1,7 +1,7 @@
 ---
 title: osMåsen
 melody: När månen vandrar
-primary_source:
+source:
 ---
 Det uppstod osmos över membran
 för saltbalansen var rubbad

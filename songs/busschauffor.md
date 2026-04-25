@@ -1,7 +1,7 @@
 ---
 title: En busschaufför #<-- låttitel
 melody: O Tannenbaum #<-- melodi
-primary_source: #<-- källa
+source: #<-- källa
 eleventyExcludeFromCollections: false #<-- set to false when adding song to main page
 ---
 En busschaufför, en busschaufför,

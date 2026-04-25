@@ -1,7 +1,7 @@
 ---
 title: 1600-talet #<-- låttitel
 melody: When Johnny comes marching home #<-- melodi
-primary_source:  #<-- källa
+source:  #<-- källa
 
 eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---

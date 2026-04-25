@@ -1,7 +1,7 @@
 ---
 title: Sista punschvisan
 melody: Auld Lang Syne
-primary_source:
+source:
 ---
 När punschen småningom är slut
 Och vår flaska blivit tom,

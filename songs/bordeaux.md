@@ -1,7 +1,7 @@
 ---
 title: Bordeaux, Bordeaux
 melody: I sommarens soliga dagar
-primary_source:
+source:
 ---
 Jag minns än idag hur min fader
 kom hem ifrån staden så glader

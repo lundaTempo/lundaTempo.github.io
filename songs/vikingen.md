@@ -1,7 +1,7 @@
 ---
 title: Vikingen
 melody: Helan går (alt. When Johnny Comes Marching Home)
-primary_source:
+source:
 ---
 En viking älskar livets vann
 Hurra, hurra!

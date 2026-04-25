@@ -1,7 +1,10 @@
 ---
-title:  #<-- låttitel
+title: Ingmar Bergmans snapsvisa #<-- låttitel
 melody:  #<-- melodi
-primary_source:  #<-- källa
-eleventyExcludeFromCollections: true  #<-- set to false when adding song to main page
+source:  #<-- källa
+eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---
-Här börjar texten...
+*(Alla fattar sina glas.....)*
+Tystnad!
+Tagning!
+*(Varvid alla dricker ur sina glas.)*
