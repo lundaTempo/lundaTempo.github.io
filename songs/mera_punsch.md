@@ -2,7 +2,6 @@
 title: O mera punsch #<-- låttitel
 melody: Bella ciao #<-- melodi
 source: John Hultengård (Centerstudenter) #<-- källa
-eleventyExcludeFromCollections: true  #<-- set to false when adding song to main page
 ---
 När jag steg upp ur
 Min säng en morgon

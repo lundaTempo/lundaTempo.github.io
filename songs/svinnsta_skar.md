@@ -2,7 +2,6 @@
 title:  #<-- låttitel
 melody:  #<-- melodi
 source:  #<-- källa
-eleventyExcludeFromCollections: true  #<-- set to false when adding song to main page
 ---
 Dansen den går uppå Svinnsta skär,
 hör klackarna mot hällen.

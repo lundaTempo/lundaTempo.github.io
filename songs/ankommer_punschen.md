@@ -2,7 +2,6 @@
 title: Snart ankommer punschen #<-- låttitel
 melody: Snart skiner Poseidon #<-- melodi
 source: Mattias Jonsson (Centerstudenter) #<-- källa
-eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---
 När vi går genom kvällen, över fördrink och -rätt
 Med en sångbok i handen, och ett leende brett

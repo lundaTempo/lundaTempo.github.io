@@ -15,8 +15,8 @@ När vi har druckit bäsken slut
 Tragik, tragik
 Då bäres varje viking ut
 som lik, sej lik
-Och sén när vi vaknar vi sjunger en bit,
-sén korkar vi upp Skånes Aquavit
+Och sen när vi vaknar vi sjunger en bit,
+sen korkar vi upp Skånes Aquavit
 Skål för alla vikingar som kom hit!
 
 SKÅL!

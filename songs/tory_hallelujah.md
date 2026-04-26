@@ -2,7 +2,6 @@
 title:  #<-- låttitel
 melody:  #<-- melodi
 source:  #<-- källa
-eleventyExcludeFromCollections: true  #<-- set to false when adding song to main page
 ---
 Vi ska skicka Jonas Sjöstedt i en ubåt till Moskva.
 Ja, vi ska skicka Jonas Sjöstedt i en ubåt till Moskva.
