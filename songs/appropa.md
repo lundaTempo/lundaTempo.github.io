@@ -2,7 +2,6 @@
 title: Appropå Malmö högskola... #<-- låttitel
 melody: Guldet blev till sand #<-- melodi
 source: Lundakarnevalen 1998 #<-- källa
-eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---
 Ett reklamblad kom hem till mig den våren:
 "Kom till Malmö när vi till hösten får en

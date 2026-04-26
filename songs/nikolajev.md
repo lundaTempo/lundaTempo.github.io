@@ -2,7 +2,6 @@
 title: Nikolajev #<-- låttitel
 melody: Ryska federationens hymn #<-- melodi
 source:  #<-- källa
-eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---
 Jag heter Nikolajev, jag kommer från Sovjet.
 Jag svävar kring jorden i min rymdraket.
