@@ -1,8 +1,6 @@
 ## Funktionalitet att lägga till
 - fixa random-knapp
 - fixa download-funktionalitet
-- differentiera länkar som "källkod" och till låtar
-- lägga till subtitel - ex. "en samling låtar"
 - toggle för att sortera på olika saker
 - lägga till en manifest.json
 - kortare max width på låtinfo
@@ -14,17 +12,11 @@
 - mitt "signum" i sångböcker som easter egg - en animation - hitta trigger
 - öka bottenavståndet på sida
 
-## Att göra - låtar
-- korrläs alla låtar
-
 ## Att göra - andra saker
-- gör dark mode till default eller bokmode?
 - öka avstånd mellan melodi och låttext
 - gör hela entryn klickbar i startsida 
 - skapa en OM-tabb för att lista
 - kopiera länk -> dela
-
-## Låtar att lägga till
 
 ### misc. (ej låtar)
 - Hur man ska skåla
