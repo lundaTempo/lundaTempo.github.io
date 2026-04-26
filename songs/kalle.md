@@ -3,21 +3,21 @@ title: Nu ska visst alla döda Kalle #<-- låttitel
 melody: Do You Hear The People Sing ur Les Miserables #<-- melodi
 source: Krischanstaspääxets Karl Martell 2011/12 #<-- källa
 ---
-(I princip alla utom Karl Martell sjunger)
+*(I princip alla utom Karl Martell sjunger)*
 
-Pippin:
+**Pippin:**
 Ska jag döda Karl Martell?
 Mitt kött och blod, min egen far?
 Kommer han då bli sur på mig,
 som är det enda han har kvar
 
-Imamen:
+**Imamen:**
 När hans liv har runnit ut
 Konverterar vi vårt stöd
 Vår tid i skuggan når sitt slut
 när han är död
 
-Påven:
+**Påven:**
 Denna nya religion
 den liknar mest en parodi.
 Ni kommer tappa tron
@@ -25,7 +25,7 @@ när er Imam gör sin sorti (för)
 En trist twist på tvist-
 en blir bristen på min empati
 
-Refräng (Alla sjunger):
+*Refräng (Alla sjunger):*
 Vi ska döda Karl Martell
 och gripa makten i vårt land
 vi ska ge svindel åt tyrannen
@@ -35,23 +35,23 @@ Minns då hur vårat slagord löd
 Först när hans hjärta slutar slå
 Ja, då är han död
 
-Theudoald:
+**Theudoald:**
 Han ska få för alla år
 som jag har suttit i min bur
 
-Jean Une:
+**Jean Une:**
 När kungens brist på stöd blir
 död då står vi näst på tur
 
-Pippin:
+**Pippin:**
 Snart klart
-Plectrude:
+**Plectrude:**
 Underbart
-Påven:
+**Påven:**
 Jag är smart
-Imamen:
+**Imamen:**
 Uppenbart
-Alla:
+**Alla:**
 Vi vet hur...
 
-Refräng...
+*Refräng...*

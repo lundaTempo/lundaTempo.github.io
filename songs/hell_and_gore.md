@@ -1,6 +1,6 @@
 ---
 title: Hell and Gore #<-- låttitel
-melody: #<-- melodi
+melody: Helan går #<-- melodi
 source: #<-- källa
 ---
 Hell and Gore
