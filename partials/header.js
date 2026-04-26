@@ -7,15 +7,13 @@ const themeToggle = document.getElementById('theme-toggle');
 /* <button id="lucky" aria-label="gå till slumpmässig sång">jag har tur</button> */
 
 const themeLabels = {
-  light: 'låt mörker bli',
-  dark: 'gamla böcker',
-  book: 'varde ljus',
+  light: 'mörkt läge',
+  dark: 'ljust läge'
 };
 
 const themeNext = {
   light: 'dark',
-  dark: 'book',
-  book: 'light',
+  dark: 'light',
 };
 
 function applyTheme(theme) {
@@ -34,20 +32,6 @@ themeToggle.addEventListener('click', () => {
   localStorage.setItem('theme', next);
   applyTheme(next);
 });
-
-const groupToggle = document.getElementById('group-toggle');
-
-const groupLabels = {
-  cs: 'pluggar cs',
-  dsek: 'krischanit',
-  krn: 'med i cs',
-};
-
-const groupNext = {
-  cs: 'dsek',
-  dsek: 'krn',
-  krn: 'cs',
-};
 
 const copyButton = document.getElementById('copy-link');
 copyButton.textContent = 'kopiera länk';

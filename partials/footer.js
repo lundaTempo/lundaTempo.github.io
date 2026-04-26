@@ -1,7 +1,3 @@
-
-const footer = document.querySelector('footer');
-footer.innerHTML = '<a href="https://github.com/lundaTempo/lundaTempo.github.io"><b>Källkod<b></><br><br>';
-
 window.goatcounter = { endpoint: 'https://lundatempo.goatcounter.com/count' };
 const script = document.createElement('script');
 script.async = true;
