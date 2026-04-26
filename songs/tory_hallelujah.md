@@ -1,6 +1,6 @@
 ---
-title:  #<-- låttitel
-melody:  #<-- melodi
+title: Tory, tory hallelujah #<-- låttitel
+melody: Battle hymn of the republic #<-- melodi
 source:  #<-- källa
 ---
 Vi ska skicka Jonas Sjöstedt i en ubåt till Moskva.

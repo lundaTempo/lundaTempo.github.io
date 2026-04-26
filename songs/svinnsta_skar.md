@@ -1,7 +1,7 @@
 ---
-title:  #<-- låttitel
+title: Svinnsta skär #<-- låttitel
 melody:  #<-- melodi
-source:  #<-- källa
+source: Gideon Wahlberg #<-- källa
 ---
 Dansen den går uppå Svinnsta skär,
 hör klackarna mot hällen.

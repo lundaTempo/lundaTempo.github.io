@@ -2,5 +2,6 @@
 title:  #<-- låttitel
 melody:  #<-- melodi
 source:  #<-- källa
---- # sångtext nedan
+eleventyExcludeFromCollections: true #<-- sätt till false eller ta bort för att lägga till i meny
+--- #<-- sångtext nedan
 
