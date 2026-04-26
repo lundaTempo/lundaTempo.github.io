@@ -12,3 +12,13 @@ Jag gillar, jag gillar punschen!
 Jag gillar den som, punschen skapat har!
 Jag gillar, jag gillar punschen!
 Jag gillar punschen och dess far!
+
+MEN!
+
+Jag hatar, jag hatar staten.
+Jag hatar, den som staten skapat har.
+Jag hatar, jag hatar staten.
+Jag hatar staten och dess far!
+
+//: Offentliga sektorn, offentliga sektorn är så jävla kass! ://
+Vi vill inte ha den, vi vill kapa av den!
