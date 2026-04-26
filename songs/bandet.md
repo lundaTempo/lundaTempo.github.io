@@ -2,7 +2,6 @@
 title: Bandet bakom scen #<-- låttitel
 melody: Hava Nagila #<-- melodi
 source: Krischanstaspääxet #<-- källa
-eleventyExcludeFromCollections: false  #<-- set to false when adding song to main page
 ---
 //: Ha sex med bandet, ha sex med
 bandet, ha sex med bandet –
