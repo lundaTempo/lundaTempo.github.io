@@ -28,14 +28,6 @@ permalink: /index.html
 <br>
 {% endfor %}
 
-<h3>Andra saker</h3>
-{% for misc in collections.misc | sort(false, false, "data.title") %}
-<a href="{{ misc.url }}">{{ misc.data.title }}</a><br>
-<br>
-{% endfor %}
-Kommer kanske snart
-</main>
-
 <br>
 <br>
 <footer></footer>
