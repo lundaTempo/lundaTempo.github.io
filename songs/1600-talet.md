@@ -15,7 +15,7 @@ Där spränges en häst, där kapas en hals,
 utav en knekt det blir inget alls,
 i ett hav av blod vadar tappra svenskar fram.
 
-Den lede fi huggs ner till sista man, hurra!
+Den lede vi huggs ner till sista man, hurra!
 Alla städer sättes ut i brand, hurra!
 Där brännes vad ej plundras kan
 och dödar man ej så sårar man,

@@ -29,7 +29,8 @@
 <p><div class="songinfo"><b>{{ title }}</b><br>
 <i>Mel. {{ melody }}</i><br>
 </div>
-{% if source %}<i>Från: {{ source }}</i></p>{% endif %}
+{% if source %}<span class="source-text"><i>Från: {{ source }}</i></span></p>{% endif %}
+<div class="half-br"></div>
 <div class = "songlyrics">
 {{ content | safe }}
 </div>

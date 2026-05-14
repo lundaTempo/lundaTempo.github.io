@@ -5,7 +5,7 @@ source:
 ---
 Det uppstod osmos över membran
 för saltbalansen var rubbad
-H20 flödade genom vägg
+H2O flödade genom vägg
 för så fungerar osmosis
 "jag vill ju framåt
 jag vill ju spädas
