@@ -21,13 +21,12 @@ function applyTheme(theme) {
   themeToggle.textContent = themeLabels[theme];
 }
 
-const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
 const saved = localStorage.getItem('theme');
-const initialTheme = saved || (prefersDark ? 'dark' : 'light');
+const initialTheme = saved || 'dark';
 applyTheme(initialTheme);
 
 themeToggle.addEventListener('click', () => {
-  const current = localStorage.getItem('theme') || 'light';
+  const current = localStorage.getItem('theme') || 'dark';
   const next = themeNext[current] || 'dark';
   localStorage.setItem('theme', next);
   applyTheme(next);
